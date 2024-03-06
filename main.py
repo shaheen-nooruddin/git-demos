@@ -1,2 +1,4 @@
 print("Hello world")
-change on remote rep
+
+name = input("Enter your name")
+print("welcome to python!" + name)
