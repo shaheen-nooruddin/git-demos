@@ -1,6 +1,7 @@
 This is my git repository
 changing my file status
 This is my first working repository
+There are two repostitories
 
 
 
